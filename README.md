@@ -42,7 +42,7 @@ Peer review is an important part of code refactoring. If the peer-reviewer finds
 -Don't do delayed refactoring because it contains a big mess and makes it very difficult to refactor. Do early refactoring.
 -Stable code should not be refactored.
 from(https://www.quora.com/What-are-the-pros-and-cons-of-refactoring)
-### 2. How do these pros and cons apply to refactoring the original VBA script?
+#### 2. How do these pros and cons apply to refactoring the original VBA script?
 Refactoring improves the Design of Existing Code - Martin Fowler.
 In Traditional Engineering, design puts 15% of total effort but design puts 90% effort into Software Engineering.
 Design helps to make the code good and maintainable.
