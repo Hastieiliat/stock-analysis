@@ -44,8 +44,6 @@ Peer review is an important part of code refactoring. If the peer-reviewer finds
 from(https://www.quora.com/What-are-the-pros-and-cons-of-refactoring)
 #### 2. How do these pros and cons apply to refactoring the original VBA script?
 Refactoring improves the Design of Existing Code - Martin Fowler.
-In Traditional Engineering, design puts 15% of total effort but design puts 90% effort into Software Engineering.
-Design helps to make the code good and maintainable.
-Design makes code easily understandable because code is loosely coupled, restructured, and duplicate code is eliminated.
+The cons are that refactoring the original code may lead to a more complex code that is more difficult to scale to a larger data set or may increase the risk of error. Answering thisquestion is in determining how long the script took to run between the original code and the refactored code.
 from(https://www.c-sharpcorner.com/article/pros-and-cons-of-code-refactoring/)
 
