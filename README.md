@@ -3,11 +3,17 @@ Module2
 # Overview of Project: Explain the purpose of this analysis.
 Steve wants to find the total daily volume and yearly return for each stock. Daily volume is the total number of shares traded throughout the day; it measures how actively a stock is traded. The yearly return is the percentage difference in price from the beginning of the year to the end of the year. Steve's parents are starting to pester him about 12 stock.
 # Results: Using images and examples of your code, compare the stock performance between 2017 and 2018, as well as the execution times of the original script and the refactored script.
-for 2017 we have
+
+Refactored
+![image](https://user-images.githubusercontent.com/100230706/156905521-967a0cab-2cea-4b55-988b-6a67434c9867.png)
+original
+
 ![VBA_Challenge_2017](https://user-images.githubusercontent.com/100230706/156905233-1dc88e00-99f4-42ac-bad8-315f0922879d.png)
 
-and for 2018 we have
+original 
 ![VBA_Challenge_2018](https://user-images.githubusercontent.com/100230706/156905238-fd3d479e-3f8b-4fde-80d3-883aa8e4a723.png)
+refactored
+![image](https://user-images.githubusercontent.com/100230706/156905499-4086400b-3251-4d1d-97db-6af8170dea1d.png)
 
 
 # Summary: In a summary statement, address the following questions.
