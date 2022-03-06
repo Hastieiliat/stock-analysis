@@ -4,16 +4,19 @@ Module2
 Steve wants to find the total daily volume and yearly return for each stock. Daily volume is the total number of shares traded throughout the day; it measures how actively a stock is traded. The yearly return is the percentage difference in price from the beginning of the year to the end of the year. Steve's parents are starting to pester him about 12 stock.
 # Results: Using images and examples of your code, compare the stock performance between 2017 and 2018, as well as the execution times of the original script and the refactored script.
 
-Refactored
-![image](https://user-images.githubusercontent.com/100230706/156905521-967a0cab-2cea-4b55-988b-6a67434c9867.png)
-original
+### Refactored
+These two pictures are from refactored run which shows it needs less time to finish the run.
+## 2017
+![VBA_Challenge_2017_Refactored](https://user-images.githubusercontent.com/100230706/156911127-67ed7802-01f1-49b8-b8df-0935bb426724.png)
+## 2018
+![VBA_Challenge_2018_Refactored](https://user-images.githubusercontent.com/100230706/156911133-0c0ff6dd-6570-47cc-921e-1ed0f62a802d.png)
 
-![VBA_Challenge_2017](https://user-images.githubusercontent.com/100230706/156905233-1dc88e00-99f4-42ac-bad8-315f0922879d.png)
-
-original 
-![VBA_Challenge_2018](https://user-images.githubusercontent.com/100230706/156905238-fd3d479e-3f8b-4fde-80d3-883aa8e4a723.png)
-refactored
-![image](https://user-images.githubusercontent.com/100230706/156905499-4086400b-3251-4d1d-97db-6af8170dea1d.png)
+### Original 
+The run time is more and since they are three individual subs ( we need to run all of them)
+## 2017
+![VBA_Challenge_2017_Original](https://user-images.githubusercontent.com/100230706/156911141-b3c75411-3d8b-4ef0-8fc1-67ebffbe21ae.png)
+## 2018
+![VBA_Challenge_2018_Original](https://user-images.githubusercontent.com/100230706/156911147-ad1688d2-bdea-4746-8f4b-33d3d54fdd29.png)
 
 
 # Summary: In a summary statement, address the following questions.
